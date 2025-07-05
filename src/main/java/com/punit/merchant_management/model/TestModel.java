@@ -1,10 +1,7 @@
-package com.punit.merchant_management;
+package com.punit.merchant_management.model;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import jakarta.validation.constraints.NotNull;
-import lombok.Data;
-import lombok.ToString;
 
 
 public class TestModel {
